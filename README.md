@@ -40,6 +40,7 @@ El proyecto es una aplicación de consola Spring Boot (simulada).
 cd app-legacy
 mvn clean install
 mvn spring-boot:run
+```
 
 ### 📋 Flujo de Prueba
 
